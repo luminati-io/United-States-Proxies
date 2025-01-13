@@ -17,6 +17,32 @@ Experience seamless scraping with Bright Data's [US proxies](https://brightdata.
 - **Ethically Sourced**: All proxies are sourced with explicit user consent.
 - **Unlimited Concurrent Sessions**: Scale your operations without limitations.
 
+## Types of US Proxies
+
+**[**Residential proxies**](https://brightdata.com/proxy-types/residential-proxies)** - Enjoy effortless scraping with the fastest residential proxies in the industry. Take advantage of accurate targeting and unparalleled reliability.
+  
+- **3.7M US residential IPs**
+- **HTTP(S)/ & SOCKS5 supported**
+- **Global customer support**
+
+**[**Datacenter proxies**](https://brightdata.com/proxy-types/datacenter-proxies)** - Effortlessly scale anonymous data collection using the fastest and most dependable datacenter IP pool.
+  
+- **350,000 US datacenter IPs**
+- **0.24s resonse time**
+- **Pay-Per-IP or bandwidth usage**
+
+**[**ISP proxies**](https://brightdata.com/proxy-types/isp-proxies)** - Highest quality static residential proxies that you can keep for life.
+  
+- **292,000 US static residential IPs**
+- **Pay-per-IP or by bandwidth usage**
+- **Fastest response time in the industry**
+
+**[**Mobile proxies**](https://brightdata.com/proxy-types/mobile-proxies)** - View the web as real mobile users do with mobile IPs from around the globe.
+  
+- **345,000 US mobile proxy IPs**
+- **3G/4G/5G mobile IPs**
+- **24/7 global support**
+
 ## Popular US proxy IP locations
 - [**California proxies**](https://brightdata.com/locations/united-states/california)
 - [**Florida proxies**](https://brightdata.com/locations/united-states/florida)
