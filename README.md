@@ -1,6 +1,6 @@
 # Bright Data's United States Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/united-states) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/locations/united-states) 
 
 ## Overview
 Experience seamless scraping with Bright Data's [US proxies](https://brightdata.com/locations/united-states), designed to provide precise targeting, unmatched stability, and rapid response times. Start scraping websites from the United States and don't get blocked again.
@@ -53,7 +53,7 @@ Experience seamless scraping with Bright Data's [US proxies](https://brightdata.
 - [**Hawaii proxies**](https://brightdata.com/locations/united-states/hawaii)
 - [**Los Angeles proxies**](https://brightdata.com/locations/united-states/california/los-angeles)
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/locations/united-states) 
 
 ## Getting Started with Bright Data's United States proxies
 1. **Start Free Trial**: No credit card required.
